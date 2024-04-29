@@ -26,7 +26,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white&color=fcba03)
 ![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c&logoColor=white&color=2b990f)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-43853D?style=for-the-badge&logo=vhdl&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-43853D?style=for-the-badge&logo=vhdl&color=white)
+![Assembly](https://img.shields.io/badge/Assembly-43853D?style=for-the-badge&logo=Assembly&color=gray)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
