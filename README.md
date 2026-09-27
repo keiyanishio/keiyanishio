@@ -1,44 +1,48 @@
-### Hi there, my name is Keiya Nishio 👋
+# Keiya Nishio
 
- 
+**Computer Engineer | Data Engineering | Software & Cloud**
 
-<h3 align="center">🤝🏻 Contact me through</h3> 
-<div align = "center">
-  <a href="https://www.linkedin.com/in/keiya-nishio-4717892bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</br>
-<h3 align="center">📚 Technologies I've learned so far</h3>
-<div align="center">
+Computer Engineer focused on building reliable data, software, and cloud systems. My work and projects span **Python, SQL, APIs, data pipelines, AWS, Terraform, machine learning, computer architecture, and hardware-software integration**.
 
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=mySQL&color=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white&color=fcba03)
-![C#](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c&logoColor=white&color=2b990f)
-![VHDL](https://img.shields.io/badge/VHDL-43853D?style=for-the-badge&logo=vhdl&color=white)
-![Assembly](https://img.shields.io/badge/Assembly-43853D?style=for-the-badge&logo=Assembly&color=gray)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+I enjoy working across abstraction layers — from computer architecture and low-level systems to production-oriented data pipelines and cloud infrastructure.
 
-</div>
+## Featured Engineering Projects
 
-</br>
-<h3 align="center"> GitHub Stats</h3> 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keiyanishio&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keiyanishio&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keiyanishio&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=keiyanishio&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keiyanishio&theme=yeblu&utcOffset=8)
-</div>
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| MIPS | Computer architecture and processor-related coursework | VHDL, Assembly, Digital Systems |
+| SistemasHardwareSoftware | Hardware-software systems and low-level computing | C, Assembly, Computer Systems |
+| 202_robot_p2 | Robotics and autonomous systems coursework | Python, Robotics, Computer Vision |
+| Projeto_Cloud | Infrastructure as Code on AWS | Terraform, AWS, EC2, RDS, ALB |
+| API-MLOps | Machine-learning API / MLOps coursework | Python, FastAPI, MLOps |
+| FastAPI-Movies-API | Backend API development | Python, FastAPI |
+
+## Core Areas
+
+**Data & Backend**  
+Python · SQL · Pandas · FastAPI · Data Pipelines · APIs
+
+**Cloud & Infrastructure**  
+AWS · Terraform · Docker · Infrastructure as Code
+
+**Computer Engineering**  
+C · C++ · VHDL · Assembly · Computer Architecture · Hardware-Software Systems · Robotics
+
+**Machine Learning**  
+scikit-learn · NumPy · Pandas · MLOps
+
+## Engineering Principles
+
+- Build systems that are understandable, testable, and maintainable.
+- Automate repetitive infrastructure and data workflows.
+- Measure performance before and after optimization.
+- Document architecture and technical decisions, not only source code.
+- Treat security, reproducibility, and observability as engineering requirements.
+
+## Currently Improving
+
+I am consolidating my academic and professional engineering experience into a smaller set of production-quality portfolio projects, with stronger documentation, automated testing, CI/CD, and architecture diagrams.
+
+## Contact
+
+LinkedIn: keiya-nishio-4717892bb
