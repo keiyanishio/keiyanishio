@@ -45,19 +45,19 @@ Production-oriented data engineering projects focused on ingestion, transformati
 
 **Python · SQL · Pandas · Data Pipelines**
 
-### AWS Infrastructure with Terraform
+### [AWS Infrastructure with Terraform](https://github.com/keiyanishio/Projeto_Cloud)
 
 Infrastructure-as-Code project for deploying and managing cloud infrastructure on AWS.
 
 **Terraform · AWS · EC2 · RDS · ALB**
 
-### MLOps Model API
+### [MLOps Model API](https://github.com/keiyanishio/API-MLOps)
 
 Machine-learning API exploring model serving and backend development.
 
 **Python · FastAPI · scikit-learn · Pandas**
 
-### Computer Architecture
+### [Computer Architecture](https://github.com/keiyanishio/MIPS)
 
 Computer engineering projects involving processor architecture, hardware description and low-level programming.
 
