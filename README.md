@@ -1,48 +1,88 @@
-# Keiya Nishio
+# Hi there, I'm Keiya Nishio 👋
 
-**Computer Engineer | Data Engineering | Software & Cloud**
+### Data Engineer | Computer Engineer
 
-Computer Engineer focused on building reliable data, software, and cloud systems. My work and projects span **Python, SQL, APIs, data pipelines, AWS, Terraform, machine learning, computer architecture, and hardware-software integration**.
+I'm a Computer Engineer from Insper, currently working with Data Engineering in EQI.
 
-I enjoy working across abstraction layers — from computer architecture and low-level systems to production-oriented data pipelines and cloud infrastructure.
+My main focus is building data pipelines, automation and data processing solutions using Python and SQL, with experience across cloud infrastructure, analytics and software development.
 
-## Featured Engineering Projects
+I also enjoy working with cloud infrastructure, backend development and computer engineering.
 
-| Project | Focus | Technologies |
-| --- | --- | --- |
-| MIPS | Computer architecture and processor-related coursework | VHDL, Assembly, Digital Systems |
-| SistemasHardwareSoftware | Hardware-software systems and low-level computing | C, Assembly, Computer Systems |
-| 202_robot_p2 | Robotics and autonomous systems coursework | Python, Robotics, Computer Vision |
-| Projeto_Cloud | Infrastructure as Code on AWS | Terraform, AWS, EC2, RDS, ALB |
-| API-MLOps | Machine-learning API / MLOps coursework | Python, FastAPI, MLOps |
-| FastAPI-Movies-API | Backend API development | Python, FastAPI |
+---
 
-## Core Areas
+## 🛠️ Technologies
 
-**Data & Backend**  
-Python · SQL · Pandas · FastAPI · Data Pipelines · APIs
+### Data Engineering & Analytics
 
-**Cloud & Infrastructure**  
-AWS · Terraform · Docker · Infrastructure as Code
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Computer Engineering**  
-C · C++ · VHDL · Assembly · Computer Architecture · Hardware-Software Systems · Robotics
+### Cloud & Backend
 
-**Machine Learning**  
-scikit-learn · NumPy · Pandas · MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-## Engineering Principles
+### Computer Engineering
 
-- Build systems that are understandable, testable, and maintainable.
-- Automate repetitive infrastructure and data workflows.
-- Measure performance before and after optimization.
-- Document architecture and technical decisions, not only source code.
-- Treat security, reproducibility, and observability as engineering requirements.
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-555555?style=flat)
+![Assembly](https://img.shields.io/badge/Assembly-555555?style=flat)
 
-## Currently Improving
+---
 
-I am consolidating my academic and professional engineering experience into a smaller set of production-quality portfolio projects, with stronger documentation, automated testing, CI/CD, and architecture diagrams.
+## 🚀 Featured Projects
 
-## Contact
+### Data Engineering
 
-LinkedIn: keiya-nishio-4717892bb
+Production-oriented data engineering projects focused on ingestion, transformation, data quality, SQL modeling and pipeline automation.
+
+**Python · SQL · Pandas · Data Pipelines**
+
+### AWS Infrastructure with Terraform
+
+Infrastructure-as-Code project for deploying and managing cloud infrastructure on AWS.
+
+**Terraform · AWS · EC2 · RDS · ALB**
+
+### MLOps Model API
+
+Machine-learning API exploring model serving and backend development.
+
+**Python · FastAPI · scikit-learn · Pandas**
+
+### Computer Architecture
+
+Computer engineering projects involving processor architecture, hardware description and low-level programming.
+
+**VHDL · Assembly**
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Sc. in Computer Engineering — Insper**
+
+DataCamp  
+- Data Engineer
+- Associate Data Engineer in SQL
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keiyanishio&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keiyanishio&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keiyanishio&theme=github)
+
+---
+
+## 🤝🏻 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keiya_Nishio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keiya-nishio/)
