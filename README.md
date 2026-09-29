@@ -51,11 +51,11 @@ Infrastructure-as-Code project for deploying and managing cloud infrastructure o
 
 **Terraform · AWS · EC2 · RDS · ALB**
 
-### [MLOps Model API](https://github.com/keiyanishio/API-MLOps)
+### [Containerized ML Inference on AWS Lambda](https://github.com/keiyanishio/aws-lambda-ml-deployment)
 
-Machine-learning API exploring model serving and backend development.
+Containerized machine-learning inference deployment using Docker, Amazon ECR, AWS Lambda and API Gateway.
 
-**Python · FastAPI · scikit-learn · Pandas**
+**Python · Docker · AWS Lambda · Amazon ECR · API Gateway · Boto3**
 
 ### [Computer Architecture](https://github.com/keiyanishio/MIPS)
 
