@@ -76,8 +76,8 @@ Computer engineering projects involving processor architecture, hardware descrip
 **B.Sc. in Computer Engineering — Insper**
 
 DataCamp  
-- Data Engineer
-- Associate Data Engineer in SQL
+- [Data Engineer](https://www.datacamp.com/certificate/DE0016122453665?trk=public_profile_see-credential)
+- [Associate Data Engineer in SQL](https://www.datacamp.com/certificate/DEA0012609966216?trk=public_profile_see-credential)
 
 ---
 
