@@ -57,6 +57,12 @@ Containerized machine-learning inference deployment using Docker, Amazon ECR, AW
 
 **Python · Docker · AWS Lambda · Amazon ECR · API Gateway · Boto3**
 
+### [LogComp — Compiler Construction Project](https://github.com/keiyanishio/LogComp)
+
+Interpreter and compiler-construction project featuring lexical analysis, recursive-descent parsing, AST evaluation, symbol tables and functions.
+
+**Python · Compiler Design · AST · Parsing**
+
 ### [Computer Architecture](https://github.com/keiyanishio/MIPS)
 
 Computer engineering projects involving processor architecture, hardware description and low-level programming.
