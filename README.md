@@ -39,11 +39,11 @@ I also enjoy working with cloud infrastructure, backend development and computer
 
 ## 🚀 Featured Projects
 
-### Data Engineering
+### [Financial Data Pipeline](https://github.com/keiyanishio/financial-data-pipeline)
 
-Production-oriented data engineering projects focused on ingestion, transformation, data quality, SQL modeling and pipeline automation.
+End-to-end financial data platform that ingests public BCB time series, validates and stores the data, orchestrates incremental pipelines with Airflow, and builds analytics-ready models with dbt.
 
-**Python · SQL · Pandas · Data Pipelines**
+**Python · SQL · Pandas · Apache Airflow · PostgreSQL · dbt · Docker**
 
 ### [AWS Infrastructure with Terraform](https://github.com/keiyanishio/Projeto_Cloud)
 
